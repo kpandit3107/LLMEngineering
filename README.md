@@ -1,1 +1,1 @@
-Designed a technical Totor that takes a piece of code in python, LLM or Data Science related question and provides logical simple answers to them
+The projects under this section aim at showcasing the preliminary exploration that I did with AI using GPT, claude and Ollama agents
